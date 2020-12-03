@@ -1,0 +1,5 @@
+This is a file used check read write functionality of open function in Python.
+This is Second Line.
+This is Third Line.
+This is Fourth Line.
+This is fifth Line.
